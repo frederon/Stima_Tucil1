@@ -1,0 +1,15 @@
+ MEMO
+ FROM+
+-----
+HOMER
+
+  NO
+ GUN
+  NO+
+----
+HUNT
+
+NO
+NO+
+--
+GO
